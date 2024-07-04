@@ -1,2 +1,2 @@
 # Learning-Javascript
-# Topics covered in this course:
+## Topics covered in this course:
